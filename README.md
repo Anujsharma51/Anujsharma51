@@ -116,16 +116,16 @@
 <hr>
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashant-tiwari-765444216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anujsharma20/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 <hr />
 
 <div style="display: flex;" >
-<img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-KT&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" />
+<img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-KT&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Anuj sharma" />
 
 
 
-<img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-KT&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" />
+<img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anujsharma51&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Anuj Sharma" />
 
   </div>
 <hr />
