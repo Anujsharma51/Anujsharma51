@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-- 👨‍💻 All of my projects are available at (https://github.com/Anujsharma51)
+- 👨‍💻 All of my projects are available at https://github.com/Anujsharma51
 
 - 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash , React.**
 
