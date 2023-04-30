@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Anujsharma51
 
-- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash , React.**
+- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash , React , Node , Express.**
 
 - 📫 How to reach me LinkedIn ** <a color = "red" href="https://www.linkedin.com/in/anujsharma20//">LinkedIn</a> **
 
